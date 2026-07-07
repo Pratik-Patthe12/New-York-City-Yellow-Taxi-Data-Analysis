@@ -11,6 +11,7 @@ As an analyst for an upcoming NYC taxi operation, the task is to analyze 2023 ta
 * Enhance the overall passenger experience.
 
 ## Dataset Information
+**[Download the raw dataset from here](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)**
 The dataset consists of trip records provided to the NYC Taxi and Limousine Commission (TLC) by various technology providers.
 * **Format:** Parquet (*.parquet)
 * **Features:** Includes pick-up and drop-off datetimes, locations (TLC Taxi Zones 1-263), trip distances, passenger counts, payment types, and itemized fare breakdowns (standard fares, taxes, tolls, and surcharges).
